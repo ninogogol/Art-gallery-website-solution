@@ -98,6 +98,7 @@
     line-height: 28px;
     color: #FFFFFF;
     padding: 0 24px 47px;
+    max-width: 400px;
 }
 .paragraph-xs {
     font-family: 'Outfit';
@@ -135,6 +136,7 @@
 
 .black-div {
     width: 343px;
+    min-width: 100%;
     height: 293px;
     margin-bottom: 120px;
 }
